@@ -3,10 +3,12 @@ class dev{
    dev(int commit){
      this.commit = commit;	  
 }
+
+
 }
 
 public class revert {
      public static void main(String[] args){
-	
+	dev obj = new dev();
 }
 }
