@@ -10,5 +10,8 @@ class dev{
 public class revert {
      public static void main(String[] args){
 	dev obj = new dev();
+	obj.getMethod();
 }
 }
+
+
