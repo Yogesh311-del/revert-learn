@@ -1,3 +1,10 @@
+class dev{
+	int commit;
+   dev(int commit){
+     this.commit = commit;	  
+}
+}
+
 public class revert {
      public static void main(String[] args){
 	
